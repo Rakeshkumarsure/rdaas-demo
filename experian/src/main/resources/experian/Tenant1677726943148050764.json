@@ -1,0 +1,25 @@
+{
+	"creditReport": {
+		"keyuri":"/token",
+		"keybaseurl":"https://sandbox-us-api.experian.com/oauth2/v1",
+		"uri":"/credit-report",
+		"baseurl":"https://sandbox-us-api.experian.com/consumerservices/credit-profile/v2",
+		"contenttype":"application/json",
+		"httpmethod":"POST",
+		"authtype": "password",
+	 	"headers": {"Content-Type": "application/json", "Authorization": "", "clientReferenceId": "SBMYSQL"},
+		"key": "{\"username\": \"gurbaj172513@exlservice.com\",\"password\": \"\",\"client_id\": \"\",\"client_secret\": \"\"}"
+	},
+
+	"extendedViewScore": {
+		"keyuri":"/token",
+		"keybaseurl":"https://sandbox-us-api.experian.com/oauth2/v1",
+		"uri":"/extended-view-score",
+		"baseurl":"https://sandbox-us-api.experian.com/consumerservices/credit-profile/v1",
+		"contenttype":"application/json",
+		"httpmethod":"POST",
+		"authtype": "password",
+		 "headers": {"Content-Type": "application/json", "Authorization": "", "clientReferenceId": "SBMYSQL"},
+		"key": "{\"username\": \"gurbaj172513@exlservice.com\",\"password\": \"\",\"client_id\": \"\",\"client_secret\": \"\"}"
+	}
+}

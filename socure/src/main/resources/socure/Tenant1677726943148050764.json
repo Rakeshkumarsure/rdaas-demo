@@ -1,0 +1,9 @@
+{
+	"kyc": {
+		"uri":"/EmailAuthScore","baseuri":"https://sandbox.socure.com/api/3.0","contenttype":"application/json","httpmethod":"POST","key":"", "headers": {"Content-Type": "application/json", "Authorization": ""}
+	},
+
+	"kycplus": {
+		"uri":"/EmailAuthScore","baseuri":"https://sandbox.socure.com/api/3.0","contenttype":"application/json","httpmethod":"POST","key":"", "headers": {"Content-Type": "application/json", "Authorization": ""}
+	}
+}
